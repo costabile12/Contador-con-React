@@ -1,0 +1,21 @@
+/* :root{
+  --color-primario: #FF8000;
+  --color-secundario: #000000;
+  --color-terciario: #47c7fc;
+  --color-cuaternario: #ffffff;
+} */
+
+.contador {
+    min-width: 300px;
+    height: 300px;
+    border: 8px solid var(--color-primario);
+    border-radius: 15px;
+    font-size: 160px;
+    color: var(--color-cuaternario);
+    padding: 25px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 15px;
+    
+}

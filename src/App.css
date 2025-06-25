@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Lexend:wght@100..900&display=swap');
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+
+}
+
+:root{
+  --color-primario: #FF8000;
+  --color-secundario: #000000;
+  --color-terciario: #47c7fc;
+  --color-cuaternario: #ffffff;
+}
+
+html,
+body {
+  background-color: var(--color-terciario);
+}
+
+.App {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15px;
+  font-family: "Lato", sans-serif;
+}
+
+.freecodecamp-logo-contenedor {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.freecodecamp-logo {
+  height: 150px;
+}
+
+.contenedor-principal {
+  height: 550px;
+  min-width: 600px;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
