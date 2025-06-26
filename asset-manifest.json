@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Contador-con-React/static/css/main.9aa4e1b3.css",
+    "main.js": "/Contador-con-React/static/js/main.c1791592.js",
+    "static/media/logo.png": "/Contador-con-React/static/media/logo.80b31a16467e8cd9e0e4.png",
+    "index.html": "/Contador-con-React/index.html",
+    "main.9aa4e1b3.css.map": "/Contador-con-React/static/css/main.9aa4e1b3.css.map",
+    "main.c1791592.js.map": "/Contador-con-React/static/js/main.c1791592.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9aa4e1b3.css",
+    "static/js/main.c1791592.js"
+  ]
+}
